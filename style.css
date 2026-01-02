@@ -1,0 +1,57 @@
+h1{
+    background-color: aqua;
+    border: solid 4px red;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.q{
+    color: red;
+
+}
+
+.w{
+    color: yellow;
+}
+
+.e{
+    color: aqua;
+}
+
+.r{
+    color: green;
+}
+
+
+
+caption{
+    background-color: yellow;
+}
+
+.t{
+    background-color: red;
+}
+table,tr,th{
+    border: solid 2px black;
+    border-collapse: collapse;
+}
+
+.y{
+    background-color:  green;
+}
+
+.u{
+    background-color: blue;
+}
+
+button{
+    width: 15%;
+}
+
+.o{
+    width: 30%;
+}
+
+img[
+
+]
